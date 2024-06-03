@@ -1,31 +1,132 @@
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 <h1 align="center">Hi 👋, I'm Dishan Kavinda</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka </h3>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Dishankavinda&label=Profile%20views&color=0e75b6&style=flat" alt="Dishan Kavinda" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishankavinda&label=Profile%20views&color=0e75b6&style=flat" alt="dishankavinda" /> </p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishankavinda" alt="dishankavinda" /></a> </p>
+<br>
 
-- 🌱 I’m currently learning **Web Development, Mobile App Development**
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-- 💬 Ask me about **Java, C++ , JavaScript,**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **UA IT(JKH IT)**
+
+- 🌱 I’m currently learning **Devops**
+
+- 👨‍💻 All of my projects are available at [Dishan's git hub](https://github.com/Dishankavinda)
+
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
 
 - 📫 How to reach me **dishankavinda13@gmail.com**
 
-- ⚡ Fun fact **Call me As Dishan**
+- 📄 Know about my experiences [my experiences](https://dishankavinda.github.io/My-Portfolio/#home)
 
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dishankavinda01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dishankavinda01" height="30" width="40" /></a>
+<a href="https://github.com/Dishankavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dishankavinda" height="30" width="40" /></a>
+<a href="https://fb.com/Dishan.Kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dishan.Kavinda" height="30" width="40" /></a>
+<a href="https://instagram.com/dishan.notfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishan.notfound" height="30" width="40" /></a>
 </p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Dishankavinda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dishankavinda" /></a></p><br><br>
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishankavinda&show_icons=true&locale=en&layout=compact" alt="dishankavinda" /></p>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishankavinda&show_icons=true&locale=en" alt="dishankavinda" /></p>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishankavinda&" alt="dishankavinda" /></p>
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishankavinda" alt="dishankavinda" /></a> </p
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishankavinda\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dishankavinda
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Dishankavinda's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishankavinda&custom_title=dishan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<br>
+<p align="right" > Created with 🧡 by <a>Dishan Kavinda</a></p>
